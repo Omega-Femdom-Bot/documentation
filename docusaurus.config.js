@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/lukieluke8243/Omega',
+            'https://github.com/lukieluke8243/Omega/blob/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -60,12 +60,12 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Intro',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/lukieluke8243/Omega',
-            label: 'GitHub',
+            href: 'https://patreon.com/user?u=29087814',
+            label: 'Patreon',
             position: 'right',
           },
           {
@@ -82,8 +82,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Setup',
+                to: '/docs/Setup',
               },
             ],
           },
@@ -97,6 +97,10 @@ const config = {
               {
                 label: 'Support Server',
                 href: 'https://discord.gg/RaZGsXJHYW',
+              },
+              {
+                label: 'Patreon',
+                href: 'https://patreon.com/user?u=29087814',
               },
             ],
           },
