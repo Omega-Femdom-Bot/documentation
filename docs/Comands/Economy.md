@@ -12,17 +12,17 @@ Collect your earnings using these commands.
 `/hourly`
 :::
 ### Balance
-Check server member's or your balance using this command.
+Check your balance, or that of other server member's, using this command.
 :::important syntax
 `/balance` `member`
 :::
-`member` the member you want to check the balance cash.
+`member` The member you wish to check the balance of.
 ### Bank Transactions
 :::important syntax
 `/deposit` `amount`<br/>
 `/withdraw` `amount`
 :::
-`amount` you want to deposit/withdraw from the bank.
+`amount` How much you would like to deposit/withdraw from the bank.
 ### Give
 Using this command give cash to server members.
 :::important syntax
@@ -30,35 +30,35 @@ Using this command give cash to server members.
 **Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
 :::
 `!member` the member you want to give money to.<br/>
-`!amount` the amount of money you want to give to member.
+`!amount` the amount of money you want to give to the member.
 
 ### Rob
-Using this command you can Rob Money form server member, if they don't deposit in bank.
+Using this command you can Rob Money from server members,  at least if they don't deposit into their bank.
 :::important syntax
 `/rob` `!member`<br/><br/>
 **Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
 :::
 
 ### Leaderboard
-Get the list of Richest Members in the server.
+Get the list of Richest Members of the server.
 :::important syntax
 `/leaderboard` `order_by`
 :::
 `order_by` **[Cash, Bank, Total]**
 ## Shop
-You can have a shop in server and trade items. bring fun to the server.
+You can have a shop in server and trade items. Stock up on exciting and fun items!
 ### Add item
-Using this command add item to the server shop.
+Using this command adds an item to the server shop.
 :::important syntax
 `/shop add_item` `!name` `!description` `!cost` `!icon` `count` `role` `duration`<br/><br/>
 **Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
 :::
-`!name` of the item to be added.<br/>
-`!description` of the item to be added.<br/>
-`!cost` of the item to added.<br/>
-`count` total number of items to sell, you can make some items rare and unique.<br/>
-`role` if configured, Omega will give this role if member has this item in their inventory.<br/>
-`duration` if configured, the item will expire after the configured duration from buy time.
+`!name` Name of the item to be added.<br/>
+`!description` Description of the item to be added.<br/>
+`!cost` Price of the item to added.<br/>
+`count` Total number of items to sell, you can make some items rare and unique.<br/>
+`role` If configured, Omega will give this role if member has this item in their inventory.<br/>
+`duration` If configured, the item will expire after the configured duration, counting down from their time of purchase.
 ### Edit item
 Using this command edit item on the server shop.
 :::important syntax
@@ -67,19 +67,19 @@ Using this command edit item on the server shop.
 :::
 **Same Parameters as in `/shop add_item`**
 ### Delete item
-Using this command you can delete item from the server shop.
+Using this command you can remove item from the server shop.
 :::important syntax
 `/shop delete_item` `!name`<br/><br/>
 **Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
 :::
-`!name` of the item to delete from the server shop.
+`!name` Name of the item to delete from the server shop.
 ### View
 use this command to view items in the server shop.
 :::important syntax
 `/shop view`
 :::
 ### Buy
-Using this command you can buy Items from the server Shop.
+Using this command you can purchase Items from the server Shop.
 :::important syntax
 `/shop buy` `!name`<br/><br/>
 **Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
@@ -102,7 +102,7 @@ Using this command you can gift an item to member.
 `!member` member you want to give gift to.<br/>
 `!item` name of the item you want to give as a gift.
 ### Inventory
-Using this command you can view all the inventory a member has.
+Check your inventory, or that of other server member's, using this command.
 :::important syntax
 `/shop inventory` `member`
 :::

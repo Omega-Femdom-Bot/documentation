@@ -3,9 +3,8 @@ sidebar_position: 4
 ---
 
 # OwO
-owo commands are roleplay commands.<br/>
-these are the following roleplay commands.<br/>
-
+OwO commands give members a more active roleplay experience.<br/>
+The following is a list of such commands:
 :::important syntax
 **Note**: Any parameter prefixed with **`!`** is **required**, the others are optional.
 :::

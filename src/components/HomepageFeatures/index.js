@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/BDSM_logo.svg').default,
     description: (
       <>
-        Focused on BDSM-Dynamics. It is there to help superior females to keep submissives in place, play with them and show them that they have full control about them.
+      A bot focused on BDSM-Dynamics. It helps superior females keep their submissives in their place, play with them at their leisure, and show submissives that females have full control over them.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('@site/static/img/Silhouetted_Domme.svg').default,
     description: (
       <>
-        I am Omega. I am there to help you to discipline your submissives and put them into the place where they belong. You can always adress me and I will gladly help you to show your submissives the strictness just the same as the mercifulness you decide to have upon your property.
+      I am Omega. I am there to help you to discipline your submissives and put them into the place where they belong. You can always call upon me and I will gladly help you to show your submissives the strictness, or on the rare occasion, the mercifulness you decide to show your property.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/sadomaso-clipart-14.svg').default,
     description: (
       <>
-        Has very clear commands. Omega gives clear descriptions with what can be done with submissives and is not complicated, even for beginners.
+      Omega has very clear commands. It delivers clear descriptions for what can be done with your submissives for an effortless experience, even for beginners.
       </>
     ),
   },
