@@ -3,6 +3,7 @@ sidebar_position: 2
 ---
 
 # Femdom
+Bring the D/s Dynamics to discord server.
 ## Ownership
 Dommes can own/disown subbies in the server and totally dominate them.
 ### Own

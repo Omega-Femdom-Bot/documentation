@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # General
-
+General basic commands
 ### Help
 Omega will respond with help embed and guide you with a short description of all the commands.
 :::important Syntax
@@ -19,7 +19,7 @@ This command will show member's profile information in server.<br/>Informations 
 ### Information
 This command will give the information about your server/Omega
 :::important Syntax
-`information` `category`
+`/information` `category`
 :::
 `category` [Server, Omega]
 ### Patreon

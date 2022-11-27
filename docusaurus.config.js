@@ -69,7 +69,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://discord.gg/RaZGsXJHYW',
+            href: 'https://discord.gg/5gxgwuHvAN',
             label: 'Support Server',
             position: 'right',
           },
@@ -96,7 +96,7 @@ const config = {
               },
               {
                 label: 'Support Server',
-                href: 'https://discord.gg/RaZGsXJHYW',
+                href: 'https://discord.gg/5gxgwuHvAN',
               },
               {
                 label: 'Patreon',

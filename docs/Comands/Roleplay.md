@@ -2,30 +2,37 @@
 sidebar_position: 4
 ---
 
-# Role play
+# OwO
+owo commands are roleplay commands.<br/>
+these are the following roleplay commands.<br/>
 
+:::important syntax
+**Note**: Any parameter prefixed with **`!`** is **required**, the others are optional.
+:::
+- **`/peg` `!member`**<br/>
+- **`/footjob` `!member`**<br/>
+- **`/peg` `!member`**<br/>
+- **`/footjob` `!member`**<br/>
+- **`/bite` `!member`**<br/>
+- **`/spit` `!member`**<br/>
+- **`/trample` `!member`**<br/>
+- **`/spank` `!member`**<br/>
+- **`/choke` `!member`**<br/>
+- **`/punch` `!member`**<br/>
+- **`/kick` `!member`**<br/>
+- **`/facesit` `!member`**<br/>
+- **`/breed` `!member`**<br/>
+- **`/fuck` `!member`**<br/>
+- **`/machete` `!member`**<br/>
+- **`/pussylick` `!member`**<br/>
+- **`/worship` `!member`**<br/>
+- **`/footlick` `!member`**<br/>
+- **`/hug` `!member`**<br/>
+- **`/slap` `!member`**<br/>
+- **`/tickle` `!member`**<br/>
+- **`/kiss` `!member`**<br/>
+- **`/kill` `!member`**<br/>
+- **`/cuddle` `!member`**<br/>
+- **`/pat` `!member`**<br/>
+- **`/feed` `!member`**<br/>
 
-### peg
-### footjob
-### bite
-### spit
-### trample
-### spank
-### choke
-### punch
-### kick
-### facesit
-### breed
-### fuck
-### machete
-### pussylick
-### worship
-### footlick
-### hug
-### slap
-### tickle
-### kiss
-### kill
-### cuddle
-### pat
-### feed
