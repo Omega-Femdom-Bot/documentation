@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 ## Why invest in our Omega Patreon Subscription? 
-So you've decided to go ahead and support us on [Patreon](https://www.patreon.com/user?u=29087814), congratulations! Wondering what you receive for your donation? Here is our brief rundown of what you get for supporting Omega! 
+So you've decided to go ahead and support us on [Patreon](https://www.patreon.com/OmegaDiscordBot), congratulations! Wondering what you receive for your donation? Here is our brief rundown of what you get for supporting Omega! 
 
 |                Omega Perks                 |  Free   | Master/pet<br/> *Tier 1*  | Brat/Brat Tamer<br/> *Tier 2*  |   Deity/Pious<br/> *Tier 3*   |
 |:-------------------------------------:|:-------:|:-------:|:-------:|:---------:|
@@ -16,3 +16,6 @@ So you've decided to go ahead and support us on [Patreon](https://www.patreon.co
 |     Edit/Delete your confessions      |   No    |   Yes   |   Yes   |    Yes    |
 |           Double the payout           |   No    |   Yes   |   Yes   |    Yes    |
 |           Can use `/daily`              |   No    |   Yes   |   Yes   |    Yes    |
+|           Can use `/chastity`        |   No    |   Yes   |   Yes   |    Yes    |
+|           Can use **extreme** option in `/tie`        |   No    |   Yes   |   Yes   |    Yes    |
+|           Custom Gag           |   No    |   Yes   |   Yes   |    Yes    |

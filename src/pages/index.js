@@ -34,14 +34,14 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link 
             className="hide button--secondary button--lg"
-            href="https://patreon.com/user?u=29087814">
+            href="https://www.patreon.com/OmegaDiscordBot">
             G
           </Link>
         </div>
         <div className={styles.buttons}>
           <Link 
             className="button button--secondary button--lg"
-            href="https://patreon.com/user?u=29087814">
+            href="https://www.patreon.com/OmegaDiscordBot">
             Patreon
           </Link>
         </div>

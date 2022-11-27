@@ -64,7 +64,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://patreon.com/user?u=29087814',
+            href: 'https://www.patreon.com/OmegaDiscordBot',
             label: 'Patreon',
             position: 'right',
           },
@@ -100,7 +100,7 @@ const config = {
               },
               {
                 label: 'Patreon',
-                href: 'https://patreon.com/user?u=29087814',
+                href: 'https://www.patreon.com/OmegaDiscordBot',
               },
             ],
           },
