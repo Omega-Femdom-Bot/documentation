@@ -62,7 +62,7 @@ Using this command adds an item to the server shop.
 ### Edit item
 Using this command edit item on the server shop.
 :::important syntax
-`/shop add_item` `!name` `!description` `!cost` `!icon` `count` `role` `duration`<br/><br/>
+`/shop edit_item` `!name` `!description` `!cost` `!icon` `count` `role` `duration`<br/><br/>
 **Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
 :::
 **Same Parameters as in `/shop add_item`**
