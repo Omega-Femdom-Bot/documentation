@@ -10,8 +10,6 @@ The following is a list of such commands:
 :::
 - **`/peg` `!member`**<br/>
 - **`/footjob` `!member`**<br/>
-- **`/peg` `!member`**<br/>
-- **`/footjob` `!member`**<br/>
 - **`/bite` `!member`**<br/>
 - **`/spit` `!member`**<br/>
 - **`/trample` `!member`**<br/>
