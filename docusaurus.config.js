@@ -85,6 +85,14 @@ const config = {
                 label: 'Setup',
                 to: '/docs/Setup',
               },
+              {
+                label: 'Terms and Services',
+                to: '/docs/Terms',
+              },
+              {
+                label: 'Privacy Policy',
+                to: '/docs/Privacy',
+              },
             ],
           },
           {
