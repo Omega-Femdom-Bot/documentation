@@ -4,31 +4,41 @@ sidebar_position: 1
 
 # General
 General basic commands
+
 ### Help
-Omega will respond with help embeds and guide you with a short description of all the commands.
+The `/help` command will prompt Omega to respond with helpful embeds and guide you through a short description of all the available commands.
 :::important Syntax
 `/help`
 :::
 
+### Patreon
+If you are a **Patreon subscriber**, use the `/patreon` command to link your account and enjoy your perks. Thank you for supporting us!
+
+:::important Syntax
+`/patreon`
+:::
+
 ### Status
-This command will show member's profile information in server.<br/>Such informations includes the list of you subs, your owner and more.
+The `/status` command will show a member's profile information within the server. This includes a list of their subs, their owner, and more.
+
 :::important Syntax
 `/status` `member`
 :::
 
 ### Information
-This command will give the information about your server/Omega
+The `/information` command will provide information about your server or Omega.
+
 :::important Syntax
 `/information` `category`
 :::
-`category` [Server, Omega]
-### Patreon
-If you are a **Patreon Subscriber** use this command to link and enjoy your perks and Thank you for supporting me!
-:::important Syntax
-`/patreon`
-:::
+
+`category` options: [Server, Omega]
+
+
+
 ### Flush
-This command will remove junk members from your `/status`. Junk members are members who left the server and still on your `/status`.
+The `/flush` command will remove junk members from your `/status`. Junk members are members who have left the server but are still on your `/status`.
+
 :::important Syntax
 `/flush`
 :::

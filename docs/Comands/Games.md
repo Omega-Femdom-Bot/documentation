@@ -5,20 +5,23 @@ sidebar_position: 7
 # Games
 
 ### Blackjack
-You can play blackjack in the server and have fun.
+Experience the thrill of Blackjack in the server with your friends.
 :::important syntax
 `/blackjack` `!amount`
 :::
 `!amount` The amount you wish to bet.
-### Connectfour
-Play connect four with your friends and have fun.
+
+### Connect Four
+Challenge your friends to a game of Connect Four and have a great time.
 :::important syntax
 `/connectfour`
 :::
+
 ### Roulette
-You can play roulette in the server and have fun.
+Try your luck at Roulette and add some excitement to your game.
 :::important syntax
 `/roulette` `!amount` `!space`
 :::
 `!amount` The amount you wish to bet.<br/>
 `!space` the space you are betting on.
+

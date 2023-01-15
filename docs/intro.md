@@ -1,22 +1,21 @@
 ---
 sidebar_position: 1
 ---
-
 # Omega
 
-Welcome to Omega Docs, home to everything you may want to know about Omega.<br/>
-All information regarding Omega is posted here.<br/>
-Join our [Support Server](https://discord.com/invite/5gxgwuHvAN), if you wish to help, report bugs, or just to chill..
+Welcome to Omega Docs, your one-stop source for all things Omega. Here, you'll find information on what Omega is, what it can do, and how you can use it to enhance your BDSM Discord experience.
 
-### What is Omega
-**Omega is a BDSM Discord bot** that helps Dommes own their subs and control their interactions in Discord. Omega has a variety of fun activities and bot commands to keep you busy exploring your kinky Discord life. Omega's primary purpose is to be an easy-to-use bot that you can enjoy anytime!
-### What can this bot do?
-- Omega keeps track of your Subs/Domme, such as ownerships and hierarchies.
-- Omega can assist you in role-playing actions like *hugs, kisses, cuddles...* and even NSFW naughtiness like *fucking, spanking, choking...*
-- With the help of Omega, Dommes can add restrictions to subs like gagging, disabling emojis, and more.
-- Omega makes it easy for Dommes to punish their brats with forced written lines.
-- Omega also contains an Economy and Games, where members can sell, buy, or collect items in the shop.
-- There are also various utility functions for support.
-- Omega is always in Active development, so be prepared for new features rolling out!
+Omega is a BDSM Discord bot that helps Dommes control and manage their subs. With a variety of fun activities and commands, Omega makes it easy to explore and express your kinky side on Discord.
+
+Some of the things that Omega can do include:
+
+- Keeping track of subs and Domme hierarchies
+- Assisting with role-playing actions such as hugs, kisses, cuddles, and even NSFW naughtiness like *fucking, spanking, choking...*
+- Allowing Dommes to add restrictions to subs, like gagging and disabling emojis
+- Helping Dommes punish subs with forced written lines
+- Offering an economy and games feature, where members can sell, buy, or collect items
+- Providing various utility functions for support
+
+Please note that Omega is always under active development, so new features will be rolling out regularly. If you have any questions or need help, join our [Support Server](https://discord.com/invite/5gxgwuHvAN), where you can report bugs, ask for help, or just hang out and chat.
 
  

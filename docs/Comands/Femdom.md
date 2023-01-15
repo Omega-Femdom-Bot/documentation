@@ -4,63 +4,87 @@ sidebar_position: 2
 
 # Femdom
 Bringing the D/s Dynamics to your discord server.
+
 ## Ownership
-Dommes can own/disown subbies in the server, claiming them as their property.
+Dommes can own or disown subbies in the server, claiming them as their property.
+
 ### Own
-:::important syntax
+The `/own` command allows a Domme to claim a sub as their property.
+
+:::important Syntax
 `/own` `!member`<br/><br/>
-**Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
+**Note**: Any parameter prefixed with **`!`** is **required**.
 :::
+
 ### Disown
-:::important syntax
+The `/disown` command allows a Domme to release a sub from their ownership.
+
+:::important Syntax
 `/disown` `!member`<br/><br/>
-**Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
+**Note**: Any parameter prefixed with **`!`** is **required**.
 :::
 ## Restrictions
-Dommes can add/remove restrictions on the subs and train them to be obedient, or just enjoy their suffering.
+Dommes can add or remove restrictions on subs and train them to be obedient, or just enjoy their suffering.
+
 ### Badword
 Dommes can control a sub's vocabulary and prevent them from using certain words.
+
 #### Add
-Add badwords so sub are forbidden from speaking those words again.
-:::important syntax
+The `/badword add` command allows a Domme to add badwords so subs are forbidden from speaking those words again.
+
+:::important Syntax
 `/badword add` `!member` `!word`<br/><br/>
-**Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
+**Note**: Any parameter prefixed with **`!`** is **required**.
 :::
-`!member` the submissive you want to control.<br/>
-`!word` the word you want to remove from sub's vocabulary.
+
+- `!member`: the submissive you want to control.
+- `!word`: the word you want to remove from the sub's vocabulary.
+
 #### Remove
-Remove badwords from subs so they are free to speak those words again.
-:::important syntax
+The `/badword remove` command allows a Domme to remove badwords from subs so they are free to speak those words again.
+
+:::important Syntax
 `/badword remove` `!member` `!word`<br/><br/>
-**Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
+**Note**: Any parameter prefixed with **`!`** is **required**.
 :::
-`!member` the submissive you want to control.<br/>
-`!word` the word you want to add to sub's vocabulary and allow them to use it.
+
+- `!member`: the submissive you want to control.
+- `!word`: the word you want to add to the sub's vocabulary and allow them to use it.
+
 #### Clear
-Clear out a sub's badword list , giving them back uncensored speech.
-:::important syntax
+The `/badword clear` command allows a Domme to clear out a sub's badword list, giving them back uncensored speech.
+
+:::important Syntax
 `/badword clear` `!member`<br/><br/>
-**Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
+**Note**: Any parameter prefixed with **`!`** is **required**.
 :::
-`!member` the submissive you want to control.<br/>
+
+- `!member`: the submissive you want to control.
+
 ### Chastity
-Using this Command, Dommes can hide all the NSFW channels from the subs and enjoy them beg to get the access back.
-:::important syntax
+The `/chastity` command allows Dommes to hide all NSFW channels from subs and enjoy them begging to get access back.
+
+:::important Syntax
 `/chastity` `!member` `!access` `duration`<br/><br/>
-**Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
+**Note**: Any parameter prefixed with **`!`** is **required**.
 :::
-`!member` The submissive you want to control.<br/>
-`!access` chastity lock/unlock to keep the subs chaste, or free them.<br/>
-`duration` after the given duration the sub the chastity will unlock automatically. No hassle required! <br/>*default duration is 10m*
+
+- `!member`: the submissive you want to control.
+- `!access`: the options `chastity lock` or `unlock` to keep the subs chaste or free them.
+- `duration`: the length of time after which the chastity will automatically unlock. No hassle required! *default duration is 10 minutes*
+
 ### Emoji
-Using this command, Dommes can remove sub's emoji permission and prevent them from using emojis in the chat.
-:::important syntax
+The `/emoji` command allows Dommes to remove a sub's emoji permission and prevent them from using emojis in chat.
+
+:::important Syntax
 `/emoji` `!member` `!access` `duration`<br/><br/>
-**Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
+**Note**: Any parameter prefixed with **`!`** is **required**.
 :::
-`!member` the submissive you want to control.<br/>
-`!access` allow/deny to forbid or grant back their right to use emojis.<br/>
-`duration` after the given duration the sub will allowed to use emojis again. <br/>*default duration is 10m*
+
+- `!member`: the submissive you want to control.
+- `!access`: the options `allow` or `deny` to grant or forbid the sub's right to use emojis.
+- `duration`: the length of time after which the sub will be allowed to use emojis again. *default duration is 10 minutes*
+
 ### Gag
 Using this command, Dommes can gag sub's mouth and convert their chat into gagged messages.
 :::important syntax
@@ -70,8 +94,9 @@ Using this command, Dommes can gag sub's mouth and convert their chat into gagge
 `!member` the submissive you want to control.<br/>
 `!gag_option` **[Kitty, Puppy, Cow, Piggy, Custom, Ungag]** are options you can choose.<br/>
 `duration` after the given duration the gag will be removed from the sub. <br/>*default duration is 10m*
+
 ### Media
-Using this command, Dommes can allow/deny media permission for subs. That means subs can't sent any links, gifs and upload files in the server.
+Using this command, Dommes can allow or deny media permission for subs. This means subs can't send any links, gifs, or upload files in the server.
 :::important syntax
 `/media` `!member` `!access` `duration`<br/><br/>
 **Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
@@ -79,6 +104,7 @@ Using this command, Dommes can allow/deny media permission for subs. That means 
 `!member` the submissive you want to control.<br/>
 `!access` allow/deny media are two options you can choose.<br/>
 `duration` after the given duration the sub will be allowed to use media again. <br/>*default duration is 10m*
+
 ### Tie
 Using this command, Dommes can tie subs to a channel. Subs that have been tied can only write messages in said channel.
 :::important syntax
@@ -86,14 +112,14 @@ Using this command, Dommes can tie subs to a channel. Subs that have been tied c
 **Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
 :::
 `!member` the submissive you want to control.<br/>
-`!channel` the channel you want sub to be tied to.<br/>
-`duration` after the given duration the sub will allowed to message in other channels. <br/>*default duration is 10m*<br/>
-`!extreme` setting this to **`True`** will remove view channel permissions from the sub for the rest of the channels, rendering them blind to all but the channel they are tied to.
+`!channel` the channel you want the sub to be tied to.<br/>
+`duration` after the given duration the sub will be allowed to message in other channels. <br/>*default duration is 10m*<br/>
+`!extreme` setting this to **`True`** will remove view channel permissions from the sub for the rest of the channels, rendering them blind to all but the channel.
 
 ## Moderation
 With great powers comes great responsibility.
 ### Reset
-this command will remove all the restrictions from the server member.
+This command will remove all the restrictions from the server member.
 :::important syntax
 `/reset` `!member` `disown`<br/><br/>
 :::
@@ -104,10 +130,11 @@ this command will remove all the restrictions from the server member.
 `Moderate Members Permission` is Required to use `/reset` command.
 :::
 ### Safeword
-Use the safeword command to let members know that you are not comfortable with what's going on, and acts as a full red light. **Do use it wisely**.
+Use the safeword command to let members know that you are not comfortable with what's going on, and acts as a full red light. **Use it wisely**.
 :::important syntax
 `/safeword`
 :::
-:::warning using `/safeword` will not remove restrictions it is just to let server member and admins know that you are not comfortable with the situation.
+:::warning Using `/safeword` will not remove restrictions, it is just to let server members and admins know that you are not comfortable with the situation.
 :::
+
 

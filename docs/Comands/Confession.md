@@ -3,56 +3,75 @@ sidebar_position: 6
 ---
 
 # Confession
-Confess your deepest secrets to the server.
+Confess your deepest secrets to the server in a safe and anonymous way.
+
 ### Confess
-Using this command members can confess in the server anonymously.
+With this command, members can share their secrets anonymously with the server.
+
 :::important syntax
-`/confess` `!secret`,<br/><br/>
-**Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
+`/confess` `!secret`<br/><br/>
+**Note**: Any parameter prefixed with **`!`** is **required**. 
 :::
 `!secret` the secret you want to share anonymously.
+
 ### Edit
-Yes, you can edit your confessions. You don't want to worry about typos in your message being left for all to read.
+Should you wish to edit your confession, you can do so with this command. 
+
 :::important syntax
-`/confession edit` `!message id` `!secret`<br/><br/>
-**Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
+`/confession edit` `!message_id` `!secret`<br/><br/>
+**Note**: Any parameter prefixed with **`!`** is **required**. 
 :::
-`message id` the message id of the confession you want to edit<br/>
-`!secret` the new edited version of the secret you want to replace.
+`message_id` the ID of the confession message you want to edit.<br/>
+`!secret` the new, edited version of the secret you want to replace.
+
 ### Delete
-Yes, you can delete your confessions. If you are worried you may have shared too much, simply delete your confession and none will know.
+If at any time you feel that you may have shared too much, you can delete your confession with this command. 
+
 :::important syntax
-`/confession delete` `!message id`<br/><br/>
-**Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
+`/confession delete` `!message_id`<br/><br/>
+**Note**: Any parameter prefixed with **`!`** is **required**. 
 :::
-`message id` the message id of the confession you want to delete<br/>
+`message_id` the ID of the confession message you want to delete.
 
 ### Block
 Yes, moderators can block the author from posting further confessions.
+
 :::important syntax
-`/confession block` `!message id`<br/><br/>
+`/confession block` `!message id`
+
 **Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
 :::
+
 `!message id` the message id to block the author of the confession.
+
 ### Unblock
-Yes moderators, can unblock the author and allow to post further confessions.
+Yes, moderators can unblock the author and allow them to post further confessions.
+
 :::important syntax
-`/confession unblock` `!message id`<br/><br/>
+`/confession unblock` `!message id`
+
 **Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
 :::
-`!message id` the message id to unblock the author of the confession or it can also be member id.
+
+`!message id` the message id to unblock the author of the confession or it can also be the member's id.
+
 ### Ban
-Yes, moderators can **ban** the author from the server. Are you sick of it when some strange member posts stranger, uncomfortable things in confessions and their anonymity is keeping them safe? Not anymore!
+Yes, moderators can **ban** the author from the server. Are you tired of strange members posting uncomfortable things in confessions and their anonymity keeping them safe? Not anymore!
+
 :::important syntax
-`/confession ban` `!message id`<br/><br/>
+`/confession ban` `!message id`
+
 **Note**: Any parameter prefixed with **`!`** is **required**, the others are optional. 
 :::
+
 `!message id` the message id to ban the author of the confession.
+
 :::caution Permission Required
-`Manage Message Permission` is Required to use `/confession block` or `/confession unblock`.<br/>
-`Ban Permission` is Required to use `/confession ban`
+`Manage Message Permission` is required to use `/confession block` or `/confession unblock`.
+`Ban Permission` is required to use `/confession ban`.
 :::
+
 :::warning Anonymity
-You can only edit/delete/ban/block if the messages within the past week.<br/>
-Omega's Confession clears it data every week to preserver anonymity.
+You can only edit/delete/ban/block messages within the past week.
+Omega's Confession clears its data every week to preserve anonymity.
 :::
