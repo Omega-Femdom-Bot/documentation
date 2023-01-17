@@ -2,20 +2,11 @@
 sidebar_position: 4
 ---
 
-## Why invest in our Omega Patreon Subscription? 
-So you've decided to go ahead and support us on [Patreon](https://www.patreon.com/OmegaDiscordBot), congratulations! Wondering what you receive for your donation? Here is our brief rundown of what you get for supporting Omega! 
+## Omega Patreon Subscription
+So you've decided to go ahead and support us on [Patreon](https://www.patreon.com/OmegaDiscordBot), Thank you so much!
 
-|                Omega Perks                 |  Free   | Master/pet<br/> *Tier 1*  | Brat/Brat Tamer<br/> *Tier 2*  |   Deity/Pious<br/> *Tier 3*   |
-|:-------------------------------------:|:-------:|:-------:|:-------:|:---------:|
-|            Number of subs             |    4    |   10    |   20    |    35     |
-|          Restrict free subs           |   No    |   Yes   |   Yes   |    Yes    |
-|        Number of locks per day        |    2    |    5    |   15    | Unlimited |
-|        Number of keys per day         |    0    |    3    |    6    |     9     |
-|        Can restrict subs upto         | 20 mins |  2 hrs  |  4 hrs  |   6 hrs   |
-| Subs get cooldown between restriction | 0 mins  | 10 mins | 30 mins |  60 mins  |
-|     Edit/Delete your confessions      |   No    |   Yes   |   Yes   |    Yes    |
-|           Double the payout           |   No    |   Yes   |   Yes   |    Yes    |
-|           Can use `/daily`              |   No    |   Yes   |   Yes   |    Yes    |
-|           Can use `/chastity`        |   No    |   Yes   |   Yes   |    Yes    |
-|           Can use **extreme** option in `/tie`        |   No    |   Yes   |   Yes   |    Yes    |
-|           Custom Gag           |   No    |   Yes   |   Yes   |    Yes    |
+Welcome to the world of Omega, where your deepest desires and wildest fantasies come to life. As a BDSM-themed Discord bot, I am designed to help dommes manage and control their subs in a fun and engaging way. Whether you're looking for exciting activities and commands to play with, or just want to try out a new kind of entertainment tool, I am here to fulfill your every need.
+
+As a Patreon supporter, you will have access to exclusive features and perks that will take your experience to the next level. **Imagine being able to restrict your subs for up to 6 hours, use custom gag and tie commands, and even own up to 35 subs.** But that's not all, your subs will also receive a cooldown from restrictions and have an unlimited life. And if that's not enough, **Server Enthusiasts also get unlimited locks for the entire server!**
+
+But, it's not just for server owners! Anyone can buy for the server and give access to all perks to the members of the server. So, why not treat your server to the ultimate BDSM experience and become a Patreon supporter today? With my seductive commands and alluring features, I promise to keep you and your subs entertained for hours on end. Don't wait any longer, subscribe now and let the fun begin.
